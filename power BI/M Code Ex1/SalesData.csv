@@ -1,0 +1,8 @@
+OrderID,CustomerID,Region,Date,Quantity,Price
+1001,C001,North,8/1/2025,10,15
+1002,C002,South,8/2/2025,5,20
+1003,C001,North,8/3/2025,8,15
+1004,C003,East,8/4/2025,12,10
+1005,C002,South,8/5/2025,6,20
+,,,,,
+,,,,,
